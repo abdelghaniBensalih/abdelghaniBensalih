@@ -15,7 +15,7 @@ I am a CS Student at the National School of Applied Sciences, Marrakech. I have 
 
  ## 📚 What I'm Currently Learning
 -  I’m currently studying Next.js and TypeScript to create fast and innovative projects at [Headstarter](https://headstarter.co/)
--  I’m learning Data Structures and Algorithms with CS50.
+-  I’m learning Data Structures and Algorithms.
 -  I'm also exploring Retrieval Augmented Generation and Machine Learning.
 
  ## 🛠️ Skills and Tools
