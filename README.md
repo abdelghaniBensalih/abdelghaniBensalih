@@ -1,9 +1,11 @@
 <h1>Hi 👋, I'm Abdelghani Bensalih</h1>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelghanibensalih&show_icons=true&locale=en&layout=compact" alt="abdelghanibensalih" style="height: 150px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelghanibensalih&" alt="abdelghanibensalih" style="height: 150px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelghaniBensalih&show_icons=true&theme=radical" alt="Abdelghani's GitHub stats" style="height: 150px; border-radius: 10px; border: 2px solid #ccc;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelghanibensalih&show_icons=true&locale=en&layout=compact" alt="abdelghanibensalih" style="height: 150px; border-radius: 10px; border: 2px solid #ccc;" />
 </div>
+
+
 
 ## 🙂 About Me
 I am a CS Student at the National School of Applied Sciences, Marrakech. I have a huge interest in web development and AI! Currently studying Next.js, Python, and data structures.
