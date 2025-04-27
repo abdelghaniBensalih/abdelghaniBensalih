@@ -8,20 +8,19 @@
 
 
 ## 🙂 About Me
-I am a CS Student at the National School of Applied Sciences, Marrakech. I have a huge interest in web development and AI! Currently studying Next.js, Python, and data structures.
+I am a CS Student at the National School of Applied Sciences, Marrakech. I am passionate about web development and working with AI APIs
 
 ## 🚀 What I'm Working On
--  I’m currently a SWE Fellow at [Headstarter](https://headstarter.co/)
--  I just deployed with my team a wonderful project: [AI Flashcards](https://github.com/Github11200/AI-Flashcards)
+-  I'm focusing on university projects, but open to collaborating on other projects. Feel free to reach out!
 -  I sometimes write articles on [Medium](https://medium.com/@abdelghaniben40/)
 
  ## 📚 What I'm Currently Learning
--  I’m currently studying Next.js and TypeScript to create fast and innovative projects at [Headstarter](https://headstarter.co/)
+-  I’m studying Python, Next.js and TypeScript to create fast and innovative projects.
 -  I’m learning Data Structures and Algorithms.
 -  I'm also exploring Retrieval Augmented Generation and Machine Learning.
 
  ## 🛠️ Skills and Tools
-Below are some of the technologies I have used and developing skills in.
+Below are some of the technologies I have used and am developing skills in.
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,tailwind,js,nextjs,react,py,django,git,firebase,vercel)](https://skillicons.dev)
 
