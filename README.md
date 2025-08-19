@@ -21,8 +21,18 @@ I am a CS Student at the National School of Applied Sciences, Marrakech. I am pa
 
  ## 🛠️ Skills and Tools
 Below are some of the technologies I have used and am developing skills in.
+ - **Backend**  
+  [![My Skills](https://skillicons.dev/icons?i=py,django,laravel,nextjs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,tailwind,js,nextjs,react,py,django,git,firebase,vercel)](https://skillicons.dev)
+- **Frontend**  
+  [![My Skills](https://skillicons.dev/icons?i=vue,react,nextjs,html,css,tailwind,js)](https://skillicons.dev)
+
+- **Database**  
+  [![My Skills](https://skillicons.dev/icons?i=mysql,firebase,supabase,mongodb)](https://skillicons.dev)
+
+- **Dev Tools**  
+  [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,gitlab,linux,vercel)](https://skillicons.dev)
+
 
 
 ## 🔗 Contact Me
