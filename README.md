@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Abdelghani Bensalih</h1>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelghaniBensalih&theme=radical" alt="Abdelghani's GitHub stats" style="height: 150px; width:600px; border-radius: 10px; border: 2px solid #ccc;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelghaniBensalih&theme=radical" alt="Abdelghani's GitHub stats" style="height: 150px; border-radius: 10px; border: 2px solid #ccc;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelghanibensalih&show_icons=true&locale=en&layout=compact" alt="abdelghanibensalih" style="height: 150px; border-radius: 10px; border: 2px solid #ccc;" />
 </div>
 
