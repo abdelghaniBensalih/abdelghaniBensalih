@@ -9,14 +9,14 @@
 
 
 ## 🙂 About Me
-I am a CS Student at the National School of Applied Sciences, Marrakech. I am passionate about web development and working with AI APIs
+I am a CS Student at the National School of Applied Sciences, Marrakech. I am passionate about web development and working with AI APIs.
 
 ## 🚀 What I'm Working On
 -  I'm focusing on university projects, but open to collaborating on other projects. Feel free to reach out!
 -  I sometimes write articles on [Medium](https://medium.com/@a-bensalih)
 
  ## 📚 What I'm Currently Learning
--  I’m studying Python, Next.js and TypeScript to create fast and innovative projects.
+-  I’m studying Python, Java and TypeScript to create fast and innovative projects.
 -  I’m learning Data Structures and Algorithms.
 -  I'm also exploring Retrieval Augmented Generation and Machine Learning.
 
