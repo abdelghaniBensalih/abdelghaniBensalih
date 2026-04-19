@@ -39,18 +39,18 @@ Below are some of the technologies I have used and am developing skills in.
 ## 🔗 Contact Me
 Feel free to reach out to me and ask about anything! I will be happy to answer
 
-<p align="left" style="margin-top: 20px;">
-  <a href="https://twitter.com/a_bensalih" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" width="40" />
+<p>
+  <a href="https://twitter.com/a_bensalih" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" style="margin-right:10px;" />
   </a>
-  <a href="https://linkedin.com/in/abdelghani-bensalih-469155219/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+  <a href="https://linkedin.com/in/a-bensalih/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" style="margin-right:10px;" />
   </a>
-  <a href="https://instagram.com/a.bensalih" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" />
+  <a href="https://instagram.com/rouni.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" style="margin-right:10px;" />
   </a>
-  <a href="https://medium.com/@abdelghaniben40" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=medium" alt="Medium" height="40" width="40" />
+  <a href="https://medium.com/@abdelghaniben40" target="_blank">
+    <img src="https://skillicons.dev/icons?i=medium" alt="Medium" height="40" />
   </a>
 </p>
 
