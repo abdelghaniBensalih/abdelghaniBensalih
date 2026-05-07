@@ -14,6 +14,7 @@ I am a CS Student at the National School of Applied Sciences, Marrakech. I am pa
 ## 🚀 What I'm Working On
 -  I'm focusing on university projects, but open to collaborating on other projects. Feel free to reach out!
 -  I sometimes write articles on [Medium](https://medium.com/@a-bensalih)
+-  In my spare-time I do mentorship and facilitate workshops as my Outside Localhost activities here is the link for preview: [Website](https://www.outsidelocalhost.live/) 
 
  ## 📚 What I'm Currently Learning
 -  I’m studying Python, Java and TypeScript to create fast and innovative projects.
