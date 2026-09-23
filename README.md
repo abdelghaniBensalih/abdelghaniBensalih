@@ -9,7 +9,7 @@
 
 
 ## 🙂 About Me
-I am a CS Student at the National School of Applied Sciences, Marrakech. I am passionate about web development and working with AI APIs.
+I am a CS Student at the National School of Applied Sciences, Marrakech. I am passionate about full stack web development.
 
 ## 🚀 What I'm Working On
 -  I'm focusing on university projects, but open to collaborating on other projects. Feel free to reach out!
